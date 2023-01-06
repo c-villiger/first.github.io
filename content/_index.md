@@ -10,13 +10,13 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      # Interests to show in About widget
+      
 interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
 
-# Education to show in About widget
+
 education:
   courses:
     - course: PhD in Artificial Intelligence
