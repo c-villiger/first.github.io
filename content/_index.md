@@ -12,6 +12,9 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+      
+    interests:
+    hello
   - block: features
     content:
       title: Skills
