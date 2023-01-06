@@ -13,7 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
       
-    interests:
+    interests
     hello
   - block: features
     content:
